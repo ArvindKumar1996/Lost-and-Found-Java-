@@ -1,0 +1,18 @@
+SMAP
+login_jsp.java
+JSP
+*S JSP
+*F
++ 0 login.jsp
+userzone/login.jsp
++ 1 header.jsp
+userzone/header.jsp
++ 2 footer.jsp
+userzone/footer.jsp
+*L
+5,17:50
+5#1,57:67
+21#0,52:123
+5#2,18:175
+72#0,4:192
+*E
